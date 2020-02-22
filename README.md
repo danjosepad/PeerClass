@@ -1,3 +1,33 @@
+<h1 align="center">
+    <img alt="PeerClass" title="titleImage" src=".github/logo.svg" width="250px" />
+</h1>
+
+<h4 align="center">
+  🚀 PeerClass
+</h4>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Projeto</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="appScreens" src=".github/peerlass.png" width="100%">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Sobre
+
 PeerClass é um sistema para as plataformas web e dispositivos móveis, que permite aos professores a aplicação das técnicas
 de Avaliação por Pares e com Rubricas para um grupo de alunos, 
 com armazenamento de dados referentes a alunos, professores, atividades propostas e exames aplicados, 
@@ -15,3 +45,5 @@ Com o PeerClass, é possível consultar os relatórios das atividades a qualquer
 ### Acesse de qualquer lugar
 
 Seja por aplicativos móveis ou pela web, os alunos poderão responder de qualquer lugar e atribuirem notas às atividades dos colegas em um piscar de olhos!
+
+
