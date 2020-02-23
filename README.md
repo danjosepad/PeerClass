@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="PeerClass" title="titleImage" src=".github/logo.svg" width="250px" />
+    <img alt="Icons made by Freepik from FlatIcon" title="titleImage" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="appScreens" src=".github/peerlass.png" width="100%">
+  <img alt="appScreens" src=".github/appScreens.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
